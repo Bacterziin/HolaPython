@@ -1,2 +1,2 @@
-# HolaPython
-Ejemplo de Python
+# python
+repo de Python
